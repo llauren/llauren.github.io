@@ -6,6 +6,6 @@ category:
 tags: [test]
 ---
 {% include JB/setup %}
-=My first post!
+#My first post!
 
 Hello World!
