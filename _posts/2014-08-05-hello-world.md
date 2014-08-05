@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
+description: "Nothing much here really"
 category: 
 tags: [test]
 ---
 {% include JB/setup %}
-#My first post!
+This is my first post. Just to see how things turn out. Or turn in. Or something.
 
-Hello World!
+Eventually, there may be something more here. But then again, it might not.
+
