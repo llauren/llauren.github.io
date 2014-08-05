@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: the llaurén conspiracy
+tagline: yes, i am really everyhere
 ---
 {% include JB/setup %}
 
