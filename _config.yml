@@ -13,10 +13,10 @@ title : the llaurén conspiracy
 tagline: yes, i am everywhere
 author :
   name : Robin Laurén
-  email : blah@email.test
+  #email : blah@email.test
   github : llauren
   twitter : RobinLauren
-  feedburner : feedname
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -81,9 +81,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false #disqus
+    provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : llaurengithub
     livefyre :
       site_id : 123
     intensedebate :

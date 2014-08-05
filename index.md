@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Well hello there
+title: the llaurén conspiracy
 tagline: yes, i am really everyhere
 ---
 {% include JB/setup %}
